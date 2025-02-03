@@ -12,7 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//+build ignore
+//go:build ignore
+// +build ignore
 
 package main
 
@@ -20,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	gen "github.com/digitalocean/go-qemu/internal/qmp-gen"
+	gen "github.com/adoublef/go-qemu/internal/qmp-gen"
 )
 
 func main() {

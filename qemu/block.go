@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/digitalocean/go-qemu/qmp"
+	"github.com/adoublef/go-qemu/qmp"
 )
 
 const (

@@ -20,7 +20,7 @@ import (
 	"go/format"
 	"io/ioutil"
 
-	qapischema "github.com/digitalocean/go-qemu/qapi-schema"
+	qapischema "github.com/adoublef/go-qemu/qapi-schema"
 )
 
 const specURL = `https://raw.githubusercontent.com/qemu/qemu/stable-2.11/qapi-schema.json`

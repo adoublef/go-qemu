@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/digitalocean/go-qemu/qmp"
-	"github.com/digitalocean/go-qemu/qmp/qmptest"
+	"github.com/adoublef/go-qemu/qmp"
+	"github.com/adoublef/go-qemu/qmp/qmptest"
 )
 
 func TestNewMonitor(t *testing.T) {

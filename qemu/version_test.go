@@ -17,8 +17,8 @@ package qemu
 import (
 	"testing"
 
-	"github.com/digitalocean/go-qemu/qmp"
-	"github.com/digitalocean/go-qemu/qmp/raw"
+	"github.com/adoublef/go-qemu/qmp"
+	"github.com/adoublef/go-qemu/qmp/raw"
 )
 
 func TestVersion(t *testing.T) {

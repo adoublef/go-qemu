@@ -30,8 +30,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitalocean/go-qemu/qmp"
-	"github.com/digitalocean/go-qemu/qmp/raw"
+	"github.com/adoublef/go-qemu/qmp"
+	"github.com/adoublef/go-qemu/qmp/raw"
 )
 
 var (

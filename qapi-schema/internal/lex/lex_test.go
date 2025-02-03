@@ -3,7 +3,7 @@ package lex
 import (
 	"testing"
 
-	"github.com/digitalocean/go-qemu/qapi-schema/internal/token"
+	"github.com/adoublef/go-qemu/qapi-schema/internal/token"
 )
 
 func TestLex(t *testing.T) {
